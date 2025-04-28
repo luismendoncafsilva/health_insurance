@@ -29,16 +29,17 @@ Applied Cross-Validation to ensure robust performance evaluation
 Based on cross-validation results, Linear Regression was selected as the final model, achieving an R² score of 0.78.
 
 ### Key Findings ###
-Age, BMI, and Smoking Status have the strongest influence on insurance charges.
+- Age, BMI, and Smoking Status have the strongest influence on insurance charges.
 
-Smokers are significantly more expensive to insure, showing much higher charges on average.
+- Smokers are significantly more expensive to insure, showing much higher charges on average.
 
-Variables like Region had little correlation with insurance costs and were removed to simplify the model.
+- Variables like Region had little correlation with insurance costs and were removed to simplify the model.
 
 ### Final Model Performance ###
 
-Model	R² Score (Cross-Validation) - Linear Regression	0.78
-Decision Tree Regression - Lower than Linear Regression (not selected)
+- Model	R² Score (Cross-Validation) - Linear Regression	0.78
+  
+- Decision Tree Regression - Lower than Linear Regression (not selected)
 
 
 ### How to Run the Project ###
